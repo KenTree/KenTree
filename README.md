@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Kenneth
 
 I’m currently a Computer Science Major at [Cal State University, Fullerton](https://www.fullerton.edu/) 💻  
-> Passionate about software engineering, C++, Front-End, and game development 🎮  
+> Passionate about Software Engineering, C++, Web Development, and Game Development 🎮  
 > I love to mess around with computers although I have not built one from scratch since 2022 and have just added parts to my own
 
 ### I'm currently working on:

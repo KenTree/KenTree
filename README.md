@@ -5,7 +5,8 @@ I’m currently a Computer Science Major at [Cal State University, Fullerton](ht
 > I love to mess around with computers although I have not built one from scratch since 2022 and have just added parts to my own
 
 ### I'm currently working on:
-- 🌌 Astronomy Picture of the Day Website
+- Website for my family's Donut Shop
+- Learning SQL
 - More to come
 
 ### 🛠️ Technical Skills
